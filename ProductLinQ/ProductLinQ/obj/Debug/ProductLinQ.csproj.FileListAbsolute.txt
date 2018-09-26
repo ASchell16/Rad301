@@ -1,0 +1,6 @@
+c:\users\s00190272\documents\visual studio 2015\Projects\ProductLinQ\ProductLinQ\bin\Debug\ProductLinQ.exe.config
+c:\users\s00190272\documents\visual studio 2015\Projects\ProductLinQ\ProductLinQ\obj\Debug\ProductLinQ.csprojResolveAssemblyReference.cache
+c:\users\s00190272\documents\visual studio 2015\Projects\ProductLinQ\ProductLinQ\bin\Debug\ProductLinQ.exe
+c:\users\s00190272\documents\visual studio 2015\Projects\ProductLinQ\ProductLinQ\bin\Debug\ProductLinQ.pdb
+c:\users\s00190272\documents\visual studio 2015\Projects\ProductLinQ\ProductLinQ\obj\Debug\ProductLinQ.exe
+c:\users\s00190272\documents\visual studio 2015\Projects\ProductLinQ\ProductLinQ\obj\Debug\ProductLinQ.pdb
